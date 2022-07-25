@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0%;
+    background-color: chartreuse;
+}
+
+#div1{
+    position: absolute;
+    top: 50%;
+    left: 23%;
+    bottom: 60%;
+    translate: 50px;
+    border: 5px solid black;
+    height: 275px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+    background-color: gold;
+}
